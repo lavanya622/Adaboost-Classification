@@ -377,4 +377,3 @@ AdaBoost demonstrates how multiple weak learners can be combined sequentially to
 ---
 
 
-B.Tech – Computer Science Engineering (AI & ML)
